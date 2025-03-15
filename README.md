@@ -13,7 +13,7 @@ ChatterSync is a full-stack real-time chat application that enables users to com
 ✅ Secure authentication system
 ✅ User-friendly interface
 ✅ Multiple chat rooms support
-✅ Emojis & media sharing (optional future feature)
+✅ 32 different themes
 
 ## 🛠 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, EJS
