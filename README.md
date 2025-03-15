@@ -1,7 +1,5 @@
 # Real-time Chat Application
 
-![ChatterSync Banner](https://via.placeholder.com/1000x300.png?text=ChatterSync+-+Real-time+Chat+App)
-
 ## 🚀 Introduction
 ChatterSync is a full-stack real-time chat application that enables users to communicate seamlessly. Built using modern web technologies, this app ensures fast and reliable messaging with an intuitive user interface.
 
@@ -25,7 +23,7 @@ ChatterSync is a full-stack real-time chat application that enables users to com
 
 ## 📸 Screenshots
 ![Chat Interface](https://via.placeholder.com/800x400.png?text=Chat+Interface)
-![Login Page](https://via.placeholder.com/800x400.png?text=Login+Page)
+![Login Page](https://via.placeholder.com/800x400.png?text=Login+Page](https://github.com/hammadkodes/fullstack-chat-app/blob/main/frontend/public/Login%20Page.PNG)
 
 ## 🚀 Getting Started
 ### Installation Steps
