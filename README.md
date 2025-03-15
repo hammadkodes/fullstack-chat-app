@@ -23,7 +23,7 @@ ChatterSync is a full-stack real-time chat application that enables users to com
 
 ## 📸 Screenshots
 ![Chat Interface](https://via.placeholder.com/800x400.png?text=Chat+Interface)
-![Login Page](https://via.placeholder.com/800x400.png?text=Login+Page](https://github.com/hammadkodes/fullstack-chat-app/blob/main/frontend/public/Login%20Page.PNG)
+![Login Page]([https://via.placeholder.com/800x400.png](https://github.com/hammadkodes/fullstack-chat-app/blob/main/frontend/public/Home%20Page.PNG)?text=Login+Page](https://github.com/hammadkodes/fullstack-chat-app/blob/main/frontend/public/Login%20Page.PNG)
 
 ## 🚀 Getting Started
 ### Installation Steps
